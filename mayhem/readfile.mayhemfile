@@ -1,0 +1,5 @@
+project: lychee
+target: lychee
+
+cmds:
+  - cmd: /lychee --dump --offline @@
